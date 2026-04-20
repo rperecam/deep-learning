@@ -1,6 +1,0 @@
-#credit-risk
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn

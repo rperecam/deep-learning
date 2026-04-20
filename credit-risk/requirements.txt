@@ -1,0 +1,13 @@
+# Dependencias detectadas en notebooks de credit-risk
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+lightgbm
+optuna
+shap
+
+# Entorno de notebooks
+jupyter
